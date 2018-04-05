@@ -1,2 +1,0 @@
-# Coursera
-data science assignments
